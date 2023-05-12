@@ -1,0 +1,7 @@
+C:\zWork\C#\SkillsTree\SkillsTree\bin\Debug\SkillsTree.exe
+C:\zWork\C#\SkillsTree\SkillsTree\bin\Debug\SkillsTree.pdb
+C:\zWork\C#\SkillsTree\SkillsTree\obj\Debug\SkillsTree.csproj.AssemblyReference.cache
+C:\zWork\C#\SkillsTree\SkillsTree\obj\Debug\SkillsTree.csproj.SuggestedBindingRedirects.cache
+C:\zWork\C#\SkillsTree\SkillsTree\obj\Debug\SkillsTree.csproj.CoreCompileInputs.cache
+C:\zWork\C#\SkillsTree\SkillsTree\obj\Debug\SkillsTree.exe
+C:\zWork\C#\SkillsTree\SkillsTree\obj\Debug\SkillsTree.pdb
